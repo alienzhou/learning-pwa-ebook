@@ -2,7 +2,7 @@
 description: 通过firebase可以将你的服务进行托管，同时支持https协议
 ---
 
-# 【4】解决FireBase login验证失败问题
+# 4）解决FireBase login验证失败问题
 
 
 

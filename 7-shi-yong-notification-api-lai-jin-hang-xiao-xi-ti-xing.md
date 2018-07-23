@@ -2,7 +2,7 @@
 description: Notification可以增强Web App的交互性，同时Notification和Push也是一对好“基友”。
 ---
 
-# 【7】使用Notification API来进行消息提醒
+# 7）使用Notification API来进行消息提醒
 
 > 本文中的代码可以在[learning-pwa的notification分支](https://github.com/alienzhou/learning-pwa/tree/notification)上找到（`git clone`后注意切换到notification分支）。
 

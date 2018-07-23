@@ -2,7 +2,7 @@
 description: 使用Service Worker来拦截本地请求，辅以cache API实现离线服务
 ---
 
-# 【3】让你的WebApp离线可用
+# 3）让你的WebApp离线可用
 
 > 本文中的代码都可以在[learning-pwa的sw-cache分支](https://github.com/alienzhou/learning-pwa/tree/sw-cache)上找到（`git clone`后注意切换到sw-cache分支）。
 

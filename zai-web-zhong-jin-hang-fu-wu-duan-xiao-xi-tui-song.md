@@ -2,7 +2,7 @@
 description: 类似Native App中的Push功能，Web Push让你时刻与用户保持联系
 ---
 
-# 【5】在Web中进行服务端消息推送
+# 5）在Web中进行服务端消息推送
 
 > 本文中的代码都可以在[learning-pwa的push分支](https://github.com/alienzhou/learning-pwa/tree/push)上找到（`git clone`后注意切换到push分支）。
 

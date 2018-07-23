@@ -2,7 +2,7 @@
 description: 后台同步可以让你在关闭网站后，进行一些被中断的请求或操作
 ---
 
-# 【8】使用Service Worker进行后台同步 - Background Sync
+# 8）使用Service Worker进行后台同步 - Background Sync
 
 > 本文中的代码可以在[learning-pwa的sync分支](https://github.com/alienzhou/learning-pwa/tree/sync)上找到（`git clone`后注意切换到sync分支）。
 

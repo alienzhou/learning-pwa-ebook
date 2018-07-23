@@ -2,7 +2,7 @@
 description: 一份PWA学习手册，带你进入PWA世界
 ---
 
-# 【1】2018，开始你的PWA学习之旅
+# 1）2018，开始你的PWA学习之旅
 
 ![](.gitbook/assets/1629fe833d3266ad.png)
 

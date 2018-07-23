@@ -2,7 +2,7 @@
 description: AppShell是PWA中的一个重要概念，使用manifest可以让你的WebApp拥有一个类似Native的“外壳”。
 ---
 
-# 【2】使用Manifest，让你的WebApp更“Native”
+# 2）使用Manifest，让你的WebApp更“Native”
 
 
 
